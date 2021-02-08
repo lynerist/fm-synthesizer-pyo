@@ -2,8 +2,6 @@
 
 A frequency modulation synthesizer, realized in Python with Pyo library. 
 
----
-
 #### Needed library: **Pyo** - [official website](http://ajaxsoundstudio.com/software/pyo/)
 
 
